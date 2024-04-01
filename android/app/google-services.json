@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150140357064",
+    "project_id": "scavenger-4cd76",
+    "storage_bucket": "scavenger-4cd76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150140357064:android:2b7adcc2ed21609e95d8fd",
+        "android_client_info": {
+          "package_name": "com.scavenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150140357064-i2b501pl9nf0sfuofbipojbuol9pv7jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scavenger",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "150140357064-rkj52cjo32a5jvnm083jodh8k224pl5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtDiT2Gew07qGpKl6hWsoqknhj9Rw-8SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150140357064-rkj52cjo32a5jvnm083jodh8k224pl5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
